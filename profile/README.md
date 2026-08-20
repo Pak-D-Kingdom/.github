@@ -10,13 +10,13 @@
 Raihan               |AI ENGINEER       |  -              | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
 Farhan            |AI ENGINEER       |  -              | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
  Rachmad Aziz Fazarikha            |AI ENGINEER       |  -             | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
- -               |WEB DEVELOPER       |  -            | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
--            |WEB DEVELOPER       |  -            | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
--                |WEB DEVELOPER      |  -              | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
- -                |WEB DEVELOPER       | -             | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
- -             |WEB DEVELOPER       |  -             | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
- -               |WEB DEVELOPER      |  -              | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
--               |WEB DEVELOPER      | -              | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
+ A               |WEB DEVELOPER       |  -            | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
+b            |WEB DEVELOPER       |  -            | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
+b                |WEB DEVELOPER      |  -              | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
+ d                |WEB DEVELOPER       | -             | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
+ e             |WEB DEVELOPER       |  -             | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
+ f               |WEB DEVELOPER      |  -              | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
+g               |WEB DEVELOPER      | -              | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chanan-artamma-586412313/) |
  
 ## Languages and Tools:
 
